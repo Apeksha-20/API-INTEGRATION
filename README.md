@@ -20,4 +20,6 @@ This application fetches real-time weather data from an external API and display
 
 
 ##OUTPUT :
+
+
 [Weather App - Home op image.html](https://github.com/user-attachments/files/25860219/Weather.App.-.Home.op.image.html)
